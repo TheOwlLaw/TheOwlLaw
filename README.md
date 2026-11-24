@@ -1,8 +1,8 @@
-# Hi, I’m TheOwlLaw
+# Hi, I'm TheOwlLaw
 
-I build websites and experiment with what happens when you give them something useful to automate.
+Lately I've been building for two different kinds of browsing: finding a local business in Winnipeg and finding a watch you'd actually wear.
 
-- [**n8nwebsite**](https://github.com/TheOwlLaw/n8nwebsite) — an experiment in adding a chatbot to a website with n8n.
-- [**roofingSite**](https://github.com/TheOwlLaw/roofingSite) — a website project for a roofing company.
+- **Mioth** is a Winnipeg business directory with search and side-by-side comparisons. I draw service details from businesses' own websites so visitors can see what each business actually offers.
+- **Watch discovery app** is a project for exploring watches by how they look, finding more affordable alternatives, and saving favorites to a private collection.
 
-If you’re working on something in that space, [say hello](mailto:armaanthind11@gmail.com).
+[Say hello](mailto:armaanthind11@gmail.com).
